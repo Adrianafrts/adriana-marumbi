@@ -61,9 +61,7 @@ E risada escancarada.
 
 :: Adriana lá na usina Marumbi {"position":"550,200","size":"100,100"}
 ''ADRIANA ''
-<img src="https://adrianafrts.github.io/adriana-marumbi/images/capa.jpg" style="width:500px; height:350px;" />
-
-
+<img src="https://adrianafrts.github.io/adriana-marumbi/images/capa.jpg" style="width:100%; height:20%;" />
 
 Seja Bem Vindo!
 
@@ -94,7 +92,7 @@ Com carinho,
 [[Sobre a Artista]]
 [[Poesias]]
 
-<img src="https://adrianafrts.github.io/adriana-marumbi/images/flor.jpg" style="width:500px; height:350px;" />
+<img src="https://adrianafrts.github.io/adriana-marumbi/images/flor.jpg" style="width:100%; height:20%;" />
 
 ''O Projeto Gráfico e Diagramação:
 ''Adriana Freitas
@@ -222,7 +220,7 @@ Sua grande imaginação.
 
 
 :: Menina da Mata Atlântica {"position":"875,500","size":"100,100"}
-<img src="https://adrianafrts.github.io/adriana-marumbi/images/tucano.jpg" style="width:500px; height:200px;" />
+<img src="https://adrianafrts.github.io/adriana-marumbi/images/tucano.jpg" style="width:100%; height:10%" />
 ''Menina da Mata Atlântica''
 Lá na usina Mrumbi
 Nas bandas de Morretes,
@@ -241,7 +239,7 @@ Nem imaginava a historinha
 :: Música {"position":"525,500","size":"100,100"}
 Música via QR Code
 
-<img src="https://adrianafrts.github.io/adriana-marumbi/images/qrcode.jpg" style="width:500px; height:350px" />
+<img src="https://adrianafrts.github.io/adriana-marumbi/images/qrcode.jpg" style="width:100%; height:30%;" />
 
 
 :: O Boi Endiabrado {"position":"1000,750","size":"100,100"}
@@ -295,7 +293,7 @@ Com tristeza e confusão.
 :: Poesias {"position":"1250,700","size":"100,100"}
 ''POESIAS:''
 
-[[Menina da Mata Atlântica]]
+''[[Menina da Mata Atlântica]]
 [[O Córrego Levou]]
 [[Escolinha do Marumbi]]
 [[Inventora de Brinquedo]]
@@ -310,8 +308,7 @@ Com tristeza e confusão.
 [[HIstória Era Paixão]]
 [[A Menina da Floresta]]
 [[A Jovem Senhora]]
-[[O Cordel da Adriana]]
-
+[[O Cordel da Adriana]]''
 
 
 :: Sobre a Artista {"position":"575,375","size":"100,100"}
